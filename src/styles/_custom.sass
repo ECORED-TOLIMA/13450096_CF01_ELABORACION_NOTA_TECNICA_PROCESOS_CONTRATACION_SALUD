@@ -3,23 +3,36 @@
   &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 68%
-    left: -10%
-    width: 20%
-  &-2
-    animation: float1 2.5s ease-in-out infinite alternate
-    position: absolute
-    top: 30%
-    right: 10%
-    width: 20%
-
-
+    top: 64%
+    left: 60%
+    width: 25%
+  
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+.banner-principal
+  .container.tarjeta
+    background-image: url("../assets/curso/portada/fondo-banner-principal.png")
+    background-size: cover
+    background-position: center
+    background-repeat: no-repeat
+    min-height: auto
+    @media (max-width: $bp-max-md)
+      background-size: contain
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png")
+    @media (max-width: $bp-max-xs)
+      background-size: cover
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png")
+      min-height: 550px
+      background-color: #69D7E5
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/imgbaner.png") !important
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
 
 .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
   flex: 0 0 auto !important
@@ -30,7 +43,7 @@
 //    width: 33%;
     
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
-  color: $white !important  
+  color: $black !important  
 
 .boton *, .boton--sm *,
 .barra-avance__boton--regresar span
@@ -40,17 +53,365 @@
 .banner-interno__titulo h5, .banner-interno__titulo h6
   color: $color-sistema-texto !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: $white !important
+  color: $black !important
 figcaption 
     font-weight: normal !important
 
 .banner-interno__titulo__icono i
-    color: $color-acento-botones !important;
+    color: $black !important
 
+.cajon.color-primario
+  background-color: #D6F8F9
+.cajon.color-secundario
+  background-color: #E1F2FE
+.BGF00
+  background-image: url("../assets/curso/temas/bg/imgfondo0.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+.BGF01
+  background-image: url("../assets/curso/temas/bg/imgfondo1.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
 
+.BGF02
+  background-image: url("../assets/curso/temas/bg/imgfondo2.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+.BGF03
+  background-image: url("../assets/curso/temas/bg/imgfondo3.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+.BGF04
+  background-image: url("../assets/curso/temas/bg/imgfondo4.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BGF05
+  background-image: url("../assets/curso/temas/bg/imgfondo5.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BGTARG
+  background-image: url("../assets/curso/temas/bg/imgfondo3.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+.fa-chevron-right, .fa-chevron-left
+  color:#AF1414 !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
+.introduccion__icono
+  max-width: 84px
+  margin: 0 auto
+
+// Tema 1
+.tema1-icono
+  width: 84px
+  max-width: 100%
+  margin: 0 auto
+
+  &--izquierda
+    margin-left: 0
+    margin-right: auto
+
+.tema1-destacado-imagen
+  overflow: hidden
+  background-color: #33DCE1
+
+  &__texto
+    background-color: rgba($white, .92)
+
+  figure,
+  img
+    width: 100%
+    height: 100%
+
+  img
+    object-fit: cover
+
+.tema1-panel
+  overflow: hidden
+  background-color: #98F3F6
+
+  &__imagen
+    width: 100%
+    height: 100%
+    object-fit: cover
+
+.tema1-tabla
+  thead
+    background-color: #CCFEED
+
+  tbody tr:nth-child(odd)
+    background-color: #E8F9F4
+
+  tbody tr:nth-child(even)
+    background-color: $white
+
+  tbody td:first-child
+    font-weight: 700
+
+.tema1-tarjeta
+  &--a
+    background-color: #98F3F6
+
+  &--b
+    background-color: #A7D9FC
+
+  &--c
+    background-color: #79EEC5
+
+  &__icono
+    width: 128px
+    height: 128px
+    object-fit: contain
+    margin: 0 auto
+
+.tema1-slider-card
+  display: flex
+  flex-direction: column
+  justify-content: center
+  min-height: 270px
+  border-radius: 18px
+  background-color: $white
+
+  &__icono
+    width: 96px
+    height: 96px
+    object-fit: contain
+    margin: 0 auto
+
+.tema1-slyder
+  padding: 3rem
+  background-image: url('../assets/curso/temas/bg/imgfondodegra.svg')
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+
+  .slyder-b
+    padding: 2rem
+    border-radius: 18px
+    background-color: $white
+
+  &--codificaciones
+    background: #EFE6E4
+
+// Tema 2
+.tema2-icono
+  width: 84px
+  max-width: 100%
+  margin: 0 auto
+
+.tema2-destacado-imagen
+  overflow: hidden
+  background-color: #33DCE1
+
+  &__texto
+    background-color: rgba($white, .92)
+
+  figure,
+  img
+    width: 100%
+    height: 100%
+
+  img
+    object-fit: cover
+
+.tema2-tabla
+  thead
+    background-color: #CCFEED
+
+  tbody tr:nth-child(odd)
+    background-color: #E8F9F4
+
+  tbody tr:nth-child(even)
+    background-color: $white
+
+  tbody td:first-child
+    font-weight: 700
+
+.tema2-oferta-demanda
+  position: relative
+  padding: 1.5rem
+
+.tema2-panel
+  overflow: hidden
+  background-color: #98F3F6
+
+  &__imagen
+    width: 100%
+    height: 100%
+    object-fit: cover
+
+// Tema 3
+.tema3-icono
+  width: 84px
+  max-width: 100%
+  margin: 0 auto
+
+.tema3-tabla
+  thead
+    background-color: #CCFEED
+
+  tbody tr:nth-child(odd)
+    background-color: #E8F9F4
+
+  tbody tr:nth-child(even)
+    background-color: $white
+
+  tbody td:first-child
+    font-weight: 700
+
+// Tema 4
+.tema4-apertura__imagen
+  width: 100%
+  height: 100%
+  object-fit: cover
+
+.tema4-icono
+  width: 84px
+  max-width: 100%
+  margin: 0 auto
+
+.tema4-panel
+  overflow: hidden
+  background-color: #98F3F6
+
+  &__imagen
+    width: 100%
+    height: 100%
+    object-fit: cover
+
+.tema4-tarjeta
+  &--a
+    background-color: #8CEAEC
+
+  &--b
+    background-color: #9DD4FA
+
+  &--c
+    background-color: #83E8C6
+
+  &--d
+    background-color: #CFF8F9
+
+  &__icono
+    display: block
+    width: 104px
+    height: 104px
+    object-fit: contain
+    margin: 0 auto
+
+.tema4-tabla
+  thead
+    background-color: #CCFEED
+
+  tbody tr:nth-child(odd)
+    background-color: #E8F9F4
+
+  tbody tr:nth-child(even)
+    background-color: $white
+
+.tema4-slyder
+  padding: 2rem
+  border-radius: 18px
+  background-color: #EFE6E4
+
+// Tema 5
+.tema5-icono
+  width: 84px
+  max-width: 100%
+  margin: 0 auto
+
+.tema5-panel
+  overflow: hidden
+  background-color: #98F3F6
+
+  &__imagen
+    width: 100%
+    height: 100%
+    object-fit: cover
+
+.tema5-tabla
+  thead
+    background-color: #CCFEED
+
+  tbody tr:nth-child(odd)
+    background-color: #E8F9F4
+
+  tbody tr:nth-child(even)
+    background-color: $white
+
+  tbody td:first-child
+    font-weight: 700
+
+// Tema 6
+.tema6-apertura__imagen
+  width: 100%
+  height: 100%
+  object-fit: cover
+
+.tema6-icono
+  width: 84px
+  max-width: 100%
+  margin: 0 auto
+
+.tema6-panel
+  overflow: hidden
+  background-color: #98f3f6
+
+  &__imagen
+    width: 100%
+    height: 100%
+    object-fit: cover
+
+.tema6-tabla
+  thead
+    background-color: #CCFEED
+
+  tbody tr:nth-child(odd)
+    background-color: #E8F9F4
+
+  tbody tr:nth-child(even)
+    background-color: $white
+
+  tbody td:first-child
+    font-weight: 700
+
+.tema6-tarjeta
+  &--a
+    background-color: #85EAEB
+
+  &--b
+    background-color: #A7D9FA
+
+  &__icono
+    width: 110px
+    max-width: 100%
+    margin: 0 auto
+
 .p-full-width
   padding: 3rem 3.5rem!important;
 .bg-full-width
@@ -65,7 +426,8 @@ figcaption
   &-1
     background-color: $color-primario
 
-
+.bg00
+  background-color:#D6F8F9
 
 
 
@@ -86,7 +448,6 @@ figcaption
     margin-bottom: 2em  !important  
   .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
     width: 90% !important
-
   
  
   
@@ -101,6 +462,82 @@ figcaption
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+.lista-ol li, .lista-ol--cuadro li, .lista-ul li, .lista-ul--separador li, .lista-ul--color li 
+  display: flex
 
-  
+.linea-tiempo-d__item__content__title
+  background-color: #EFE6E4
+.linea-tiempo-d__item__content__slot
+  background-color: #E1F2FE
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #E1F2FE
+.tarjeta--gris, .tarjeta--azul
+  background-color: #EFE6E4
+.linea-tiempo-d__item__number
+  background-color: #AF1414
+  color: #fff !important
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: #000 !important
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FFEAEA
+  color: #12263F
+
+.acordion__activo
+  background-color: #CCE0D4
+.acordion__accion__btn--b 
+  border: 1px solid #00642B
+  background-color: #00642B
+  color: white !important
+
+.lista-ol--cuadro__vineta
+  color: #210000
+
+.slyder-a__bullets__item
+  background-color: #AF1414
+  opacity: 1
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  background-color: #AF1414
+  opacity: 1
+
+.slyder-a__bullets__item--active
+  background-color: #98F3F6
+  border-color: #98F3F6
  
+.slyder__btn
+  background-color: #AF1414
+  color: #fff !important
+
+.fa-angle-right, .fa-angle-left
+  color: $white !important
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  border-color: #00F9A3
+  background-color: #00F9A3
+.pasos-b.color-primario .pasos-b__header__item--active .pasos-b__header__item__dot
+  border: 3px solid #AF1414
+  background-color: #AF1414
+.pasos-b.color-primario .pasos-b__header__item--active .pasos-b__header__item__dot span
+  color: #FFF !important
+.pasos-b__header__item__dot i
+  color: #000 !important
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before,  .pasos-b__header__item--before .pasos-b__header__item__line-container:after
+  background-color: #9D9D9D
+
+.linea-tiempo-c__header__btn, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  background-color:#AF1414
+
+.pasos-a.color-acento-contenido .pasos-a__circle div
+  color: #000
+  
+.acordion__activo
+  background-color: #E1F2FE
+
+.acordion__accion__btn--a
+  background-color: #AF1414
+  color: #FFF !important
+
+.fa-file-lines
+  color: #00F9A3
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: #12263F !important
