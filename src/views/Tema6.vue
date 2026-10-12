@@ -124,7 +124,7 @@
           .col-8
             img(src="@/assets/curso/temas/t6/img13.svg" alt="")
         h5.text-center Útil para el seguimiento
-        p.mb-5.text-center Permite comparar el comportamiento observado durante la ejecución con las estimaciones realizadas
+        p.mb-5.text-center Permite comparar el comportamiento observado durante la ejecución con las estimaciones realizadas.
 
     p.mb-0 Así, la nota técnica puede entenderse como un instrumento que integra información para sustentar la planeación económica y asistencial del acuerdo de voluntades. Su construcción parte de la caracterización de la población y de sus necesidades y relaciona esta información con los servicios y tecnologías, las frecuencias de uso, los costos y los riesgos que pueden presentarse durante la ejecución.
 

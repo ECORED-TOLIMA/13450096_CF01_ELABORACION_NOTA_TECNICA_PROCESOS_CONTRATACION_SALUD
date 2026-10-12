@@ -71,7 +71,7 @@
           .row.justify-content-center.align-items-center.p-4
             .col-md-6.mb-4.mb-md-0
               h5 Manual Tarifario SOAT
-              p El Manual Tarifario SOAT tiene como antecedente el régimen tarifario establecido mediante el Decreto 2423 de 1996, posteriormente compilado en el Decreto 780 de 2016. Este referente establece la nomenclatura, clasificación y tarifas para determinados procedimientos médico-quirúrgicos y hospitalarios.
+              p El Manual Tarifario SOAT tiene como antecedente el régimen tarifario establecido mediante el #[b Decreto 2423 de 1996], posteriormente compilado en el #[b Decreto 780 de 2016]. Este referente establece la nomenclatura, clasificación y tarifas para determinados procedimientos médico-quirúrgicos y hospitalarios.
               p.mb-0 Su aplicación obligatoria está asociada a situaciones específicas establecidas en la normativa, entre ellas la atención de víctimas de accidentes de tránsito y determinados eventos catastróficos, así como la atención inicial de urgencias cuando no existe un acuerdo previo entre las partes. Para otros procesos de contratación, puede utilizarse como referente cuando así se establezca en el acuerdo de voluntades.
             .col-md-6
               figure
@@ -132,7 +132,7 @@
             td Regula aspectos de los acuerdos de voluntades y establece disposiciones relacionadas con las tarifas y las modalidades de pago.
             td Orienta la definición de las condiciones económicas entre las partes.
 
-    p.mb-4 El Decreto 2423 de 1996 estableció la nomenclatura y clasificación de los procedimientos médico-quirúrgicos y hospitalarios y determinó un régimen tarifario para estos servicios. Posteriormente, sus disposiciones fueron incorporadas al Decreto 780 de 2016, como parte del régimen reglamentario del sector salud.
+    p.mb-4 El #[b Decreto 2423 de 1996] estableció la nomenclatura y clasificación de los procedimientos médico-quirúrgicos y hospitalarios y determinó un régimen tarifario para estos servicios. Posteriormente, sus disposiciones fueron incorporadas al Decreto 780 de 2016, como parte del régimen reglamentario del sector salud.
 
     .row.g-0.align-items-stretch.tema5-panel.mb-4
       .col-lg-5
@@ -201,9 +201,9 @@
         figure
           img(src="@/assets/curso/temas/t5/img18.png" alt="")
       .col-lg-7
-        p.mb-4 El proceso de glosas hace parte de la revisión de las cuentas en salud y se encuentra relacionado con los procesos de facturación, auditoría y reconocimiento de los servicios y tecnologías prestados. Actualmente, la Resolución 2284 de 2023 establece los soportes de cobro y adopta el Manual Único de Devoluciones, Glosas y Respuestas. Esta resolución fue modificada, entre otras disposiciones, por la Resolución 1885 de 2024.
+        p.mb-4 El proceso de glosas hace parte de la revisión de las cuentas en salud y se encuentra relacionado con los procesos de facturación, auditoría y reconocimiento de los servicios y tecnologías prestados. Actualmente, la #[b Resolución 2284 de 2023] establece los soportes de cobro y adopta el Manual Único de Devoluciones, Glosas y Respuestas. Esta resolución fue modificada, entre otras disposiciones, por la #[b Resolución 1885 de 2024].
         .cajon.color-secundario.p-4
-          p.mb-0 Para comprender el proceso, es importante diferenciar las devoluciones de las glosas. Las devoluciones corresponden a situaciones que impiden continuar con el trámite de la factura y tienen un procedimiento específico, mientras que las glosas corresponden a objeciones formuladas durante la auditoría de las cuentas. La Resolución 2284 de 2023 establece los procedimientos y soportes aplicables a estos procesos.
+          p.mb-0 Para comprender el proceso, es importante diferenciar las devoluciones de las glosas. Las devoluciones corresponden a situaciones que impiden continuar con el trámite de la factura y tienen un procedimiento específico, mientras que las glosas corresponden a objeciones formuladas durante la auditoría de las cuentas. La #[b Resolución 2284 de 2023] establece los procedimientos y soportes aplicables a estos procesos.
 
     p.mb-4 En la gestión de las glosas deben considerarse, entre otros, los siguientes aspectos:
 
@@ -220,7 +220,7 @@
         figure
           img(src="@/assets/curso/temas/t5/img19.png" alt="")
 
-    p.mb-4 La Circular Conjunta 007 de 2025, expedida por el Ministerio de Salud y Protección Social y la Superintendencia Nacional de Salud, reiteró que las entidades responsables de pago no pueden aplicar glosas o devoluciones injustificadas o por fuera de los plazos establecidos. También señaló que deben utilizarse las causales definidas en el Manual Único de Devoluciones, Glosas y Respuestas y que no pueden exigirse soportes adicionales a los establecidos para el trámite de las facturas.
+    p.mb-4 La #[b Circular Conjunta 007 de 2025], expedida por el Ministerio de Salud y Protección Social y la Superintendencia Nacional de Salud, reiteró que las entidades responsables de pago no pueden aplicar glosas o devoluciones injustificadas o por fuera de los plazos establecidos. También señaló que deben utilizarse las causales definidas en el Manual Único de Devoluciones, Glosas y Respuestas y que no pueden exigirse soportes adicionales a los establecidos para el trámite de las facturas.
 
     .row.justify-content-center.mb-4
       .col-lg-10

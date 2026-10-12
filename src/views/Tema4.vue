@@ -68,7 +68,7 @@
       .col-lg-7
         p.mb-4 El Sistema Obligatorio de Garantía de Calidad de la Atención de Salud (SOGCS) establece el conjunto de condiciones, mecanismos y procesos orientados a promover y mantener la calidad de la atención en salud. Su funcionamiento se relaciona con las condiciones en las que los servicios son prestados y con los procesos de seguimiento y mejoramiento de la atención.
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 El SOGCS se encuentra reglamentado en el Decreto 780 de 2016 y comprende cuatro componentes: el Sistema Único de Habilitación, la Auditoría para el Mejoramiento de la Calidad de la Atención de Salud (PAMEC), el Sistema Único de Acreditación y el Sistema de Información para la Calidad.
+          p.mb-0 El SOGCS se encuentra reglamentado en el #[b Decreto 780 de 2016] y comprende cuatro componentes: el Sistema Único de Habilitación, la Auditoría para el Mejoramiento de la Calidad de la Atención de Salud (PAMEC), el Sistema Único de Acreditación y el Sistema de Información para la Calidad.
 
     p.mb-4 Estos componentes cumplen funciones diferentes y se relacionan entre sí:
 
@@ -160,6 +160,8 @@
       )
       .bloque-texto-g__texto.p-4
         p La gestión del riesgo y la seguridad del paciente son elementos relacionados con la calidad de la atención en salud. En el contexto de los acuerdos de voluntades, permiten identificar situaciones que pueden afectar los resultados de la atención, la utilización de los servicios y tecnologías y los costos asociados a su prestación.
+        br
+        br
         p.mb-0 La gestión del riesgo clínico se relaciona con los procesos de Auditoría para el Mejoramiento de la Calidad de la Atención de Salud, mediante los cuales se identifican y corrigen desviaciones en los procesos de atención. Por su parte, la seguridad del paciente se orienta a prevenir y reducir los daños evitables asociados con la atención.
 
     p.mb-4 Aunque ambos conceptos están relacionados, es posible diferenciarlos de la siguiente manera:

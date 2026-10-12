@@ -27,8 +27,12 @@
           p.mb-0 En este contexto, el componente aborda los fundamentos necesarios para comprender la caracterización de la población, el análisis de información en salud, los principales lineamientos normativos relacionados con la contratación y las generalidades de la nota técnica. El desarrollo de estos contenidos proporciona las bases para interpretar la información requerida en su construcción y comprender su importancia como herramienta de planeación y seguimiento en los procesos de contratación en salud.
     .row.justify-content-center.mb-4
       .col-lg-10
-        p.mb-0 Para complementar la comprensión de los temas abordados, se recomienda acceder al siguiente video.
-
+        p.mb-0 Para complementar la comprensión de los temas abordados, se recomienda acceder al siguiente video:
+    .row.justify-content-center.align-items-center           
+      .col.col-lg-12
+        figure
+          .video
+            iframe(width="1331" height="749" src="https://www.youtube.com/embed/Zl6J1fQLrS4" title="Regulatory and Population Analysis for the Construction of the Technical Note" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 </template>
 
 <script>

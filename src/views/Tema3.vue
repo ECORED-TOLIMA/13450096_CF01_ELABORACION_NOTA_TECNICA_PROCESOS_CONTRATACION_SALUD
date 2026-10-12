@@ -23,7 +23,7 @@
           .col-lg-1
             img.tema3-icono.d-none.d-lg-block(src="@/assets/curso/temas/t3/img3.svg" alt="")
           .col-lg-11
-            p.mb-0 El Decreto 441 de 2022, que modificó y adicionó disposiciones del Decreto 780 de 2016 en materia de acuerdos de voluntades, establece elementos relacionados con la contratación entre las entidades responsables de pago, los prestadores de servicios de salud y los proveedores de tecnologías en salud. Dentro de este marco, la nota técnica constituye un elemento asociado a los acuerdos de voluntades y proporciona información para sustentar aspectos relacionados con la población, los servicios y tecnologías, las frecuencias de uso y los riesgos considerados.
+            p.mb-0 #[b El Decreto 441 de 2022], que modificó y adicionó disposiciones del #[b Decreto 780 de 2016] en materia de acuerdos de voluntades, establece elementos relacionados con la contratación entre las entidades responsables de pago, los prestadores de servicios de salud y los proveedores de tecnologías en salud. Dentro de este marco, la nota técnica constituye un elemento asociado a los acuerdos de voluntades y proporciona información para sustentar aspectos relacionados con la población, los servicios y tecnologías, las frecuencias de uso y los riesgos considerados.
 
     p.mb-4 El análisis de estos fundamentos permite comprender cómo se relacionan las condiciones de contratación con la información utilizada para construir y hacer seguimiento a la nota técnica. Para ello, este apartado aborda:
 
@@ -64,7 +64,7 @@
         :style="{'background-image':`url(${require_src('@/assets/curso/temas/t3/img7.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El marco normativo aplicable a estos acuerdos se encuentra principalmente en el Decreto 780 de 2016, Decreto Único Reglamentario del Sector Salud y Protección Social, y en las disposiciones que lo han modificado y adicionado. Entre estas se encuentra el Decreto 441 de 2022, que incorporó disposiciones específicas relacionadas con los acuerdos de voluntades y la nota técnica.
+        p.mb-0 El marco normativo aplicable a estos acuerdos se encuentra principalmente en el #[b Decreto 780 de 2016], Decreto Único Reglamentario del Sector Salud y Protección Social, y en las disposiciones que lo han modificado y adicionado. Entre estas se encuentra el #[b Decreto 441 de 2022], que incorporó disposiciones específicas relacionadas con los acuerdos de voluntades y la nota técnica.
 
     p.mb-4 Dentro de este marco, los acuerdos de voluntades deben establecer de manera clara las condiciones relacionadas con la prestación de los servicios y tecnologías en salud. Entre los elementos que pueden considerarse se encuentran:
 
@@ -112,7 +112,7 @@
         h5.text-center Seguimiento
         p.mb-5.text-center Establecimiento de mecanismos que permitan analizar el comportamiento de los servicios, las frecuencias de uso, los costos y los riesgos durante la ejecución del acuerdo.
 
-    p.mb-4 El Decreto 441 de 2022 establece que la nota técnica hace parte de los elementos asociados a los acuerdos de voluntades y la define como una herramienta de transparencia y eficiencia entre las partes. Esta refleja información detallada sobre los servicios y tecnologías de salud, sus frecuencias de uso estimadas, los costos individuales y el valor total correspondiente a la población o grupo de riesgo, de acuerdo con la duración y la modalidad de pago pactada.
+    p.mb-4 #[b El Decreto 441 de 2022] establece que la nota técnica hace parte de los elementos asociados a los acuerdos de voluntades y la define como una herramienta de transparencia y eficiencia entre las partes. Esta refleja información detallada sobre los servicios y tecnologías de salud, sus frecuencias de uso estimadas, los costos individuales y el valor total correspondiente a la población o grupo de riesgo, de acuerdo con la duración y la modalidad de pago pactada.
 
     .row.justify-content-center.mb-4
       .col-lg-10
