@@ -64,7 +64,7 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Los manuales tarifarios son referentes utilizados para establecer o acordar el valor económico de los servicios y tecnologías en salud. En los acuerdos de voluntades, las partes pueden definir las condiciones económicas de la contratación y establecer los referentes tarifarios que utilizarán para reconocer los servicios contratados.
         p.mb-0 En Colombia existen diferentes referentes tarifarios que pueden utilizarse en los procesos de contratación en salud. Entre los más conocidos se encuentran el Manual Tarifario SOAT y el Manual Tarifario ISS 2001. También pueden establecerse tarifas propias mediante acuerdos entre las partes, de acuerdo con las condiciones definidas en el acuerdo de voluntades.
-
+    p A continuación se describen los dos manuales tradicionales: 
     .BGF02.p-5.mb-4
       .tarjeta.bg-white.p-4
         SlyderA(tipo="b")
@@ -106,7 +106,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido
       h2 5.2 Lineamientos normativos de los manuales tarifarios
 
-    p.mb-4 Los manuales tarifarios hacen parte de los referentes utilizados para establecer los valores de los servicios y tecnologías en salud. Su aplicación debe analizarse de acuerdo con el marco normativo vigente y con las condiciones establecidas en el acuerdo de voluntades entre las partes.
+    p.mb-4 Los manuales tarifarios hacen parte de los referentes utilizados para establecer los valores de los servicios y tecnologías en salud. Su aplicación debe analizarse de acuerdo con el marco normativo vigente y con las condiciones establecidas en el acuerdo de voluntades entre las partes. Entre las principales normas relacionadas con estos referentes tarifarios se encuentran las siguientes:
 
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Tabla 7.

@@ -43,6 +43,7 @@
           img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img4.svg" alt="")
         .col-md-10.col-lg-9
           p.mb-0 Entre las principales fuentes se encuentran el Sistema Integrado de Información de la Protección Social (SISPRO), el Registro Individual de Prestación de Servicios de Salud (RIPS), la Base de Datos Única de Afiliados (BDUA), el Sistema de Vigilancia en Salud Pública (SIVIGILA), la Cuenta de Alto Costo (CAC) y la información relacionada con la caracterización poblacional y el Análisis de Situación de Salud (ASIS).
+      p.mb-0 A continuación se describen los aspectos técnicos y las explicaciones funcionales de las fuentes de información: 
     .BGF04.px-5.p-5.mb-4
       .tarjeta.bg-white.p-4
         PasosB.color-primario
@@ -123,7 +124,7 @@
             img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img12.svg" alt="")
           .col-md-10
             p.mb-0 Por esta razón, la construcción de la nota técnica requiere analizar la información de manera articulada, considerando la población objeto, el periodo de análisis, las características del territorio y el propósito del acuerdo de voluntades. La integración de las fuentes proporciona elementos para sustentar las estimaciones de utilización y las proyecciones de los servicios y tecnologías en salud.
-
+    p.mb-4 La siguiente tabla sintetiza las principales fuentes de información, los datos que aportan y su utilidad en este proceso:
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
       h5 Tabla 4.
       span Principales fuentes de información para la construcción de la nota técnica

@@ -110,7 +110,8 @@
         .cajon.color-primario.p-4
           p.mb-0 Por esta razón, la caracterización utilizada como insumo para la nota técnica debe considerar las particularidades de la población y del territorio. El Análisis de Situación de Salud (ASIS) incorpora información relacionada con las condiciones sociales, económicas y de calidad de vida desde el enfoque de determinantes sociales, además de elementos asociados con la situación de salud, las necesidades y las respuestas existentes en el territorio.
 
-    p.mb-4 En este sentido, el análisis de los determinantes complementa la información sobre afiliación, características demográficas y condiciones epidemiológicas, y permite contar con una perspectiva más amplia de los factores que pueden relacionarse con las necesidades de atención y la utilización de los servicios y tecnologías en salud.
+    p En este sentido, el análisis de los determinantes complementa la información sobre afiliación, características demográficas y condiciones epidemiológicas, y permite contar con una perspectiva más amplia de los factores que pueden relacionarse con las necesidades de atención y la utilización de los servicios y tecnologías en salud.
+    p.mb-4 Entre estos aspectos se encuentran los siguientes:
 
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
       h5 Tabla 2.
@@ -200,7 +201,7 @@
     #t_1_5.titulo-segundo.color-acento-contenido
       h2 1.5 Población objeto total y población susceptible
 
-    p.mb-4 Una vez identificadas las necesidades de la población y los servicios y tecnologías relacionados con estas, es necesario determinar cuál es la población que será considerada en el acuerdo de voluntades. Para ello, se diferencian la población objeto total y la población susceptible, conceptos que permiten establecer el alcance de los servicios y tecnologías que serán proyectados en la nota técnica.
+    p.mb-4 Una vez identificadas las necesidades de la población y los servicios y tecnologías relacionados con estas, es necesario determinar cuál es la población que será considerada en el acuerdo de voluntades. Para ello, se diferencian la población objeto total y la población susceptible, conceptos que permiten establecer el alcance de los servicios y tecnologías que serán proyectados en la nota técnica:
 
     .tarjeta--container.row.mb-4
       .col-md.tarjeta.tema1-tarjeta--a.p-4
@@ -211,7 +212,7 @@
         img.tema1-tarjeta__icono.mb-4(src="@/assets/curso/temas/t1/img15.svg" alt="")
         h5.text-center Población susceptible
         p.mb-0 Corresponde al grupo de personas dentro de la población objeto total que, de acuerdo con sus características, condiciones de salud, riesgos o necesidades, puede requerir un servicio o tecnología específico. Por esta razón, la población susceptible puede variar de un servicio o tecnología a otro y no necesariamente corresponde al total de la población objeto.
-
+    p.mb-4 La siguiente tabla sintetiza las principales diferencias entre ambos conceptos, considerando su alcance, los criterios para su delimitación y su relación con la proyección de los servicios y tecnologías en salud: 
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
       h5 Tabla 3.
       span Diferencias entre población objeto total y población susceptible
@@ -279,7 +280,7 @@
         img.tema1-icono.d-none.d-lg-block(src="@/assets/curso/temas/t1/img21.svg" alt="")
       .col-md-10.col-lg-9
         .cajon.color-secundario.p-4
-          p.mb-0 Entre los parámetros considerados se encuentran la incidencia, la prevalencia y la tasa de uso, cuya selección depende de las características de la población y del servicio o tecnología que se pretenda analizar.
+          p.mb-0 Entre los parámetros considerados se encuentran la incidencia, la prevalencia y la tasa de uso, cuya selección depende de las características de la población y del servicio o tecnología que se pretenda analizar:
 
     .BGF02.p-5.mb-4
       .tarjeta.bg-white.p-4
