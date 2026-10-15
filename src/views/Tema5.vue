@@ -12,7 +12,7 @@
 
     p.mb-4 Los manuales tarifarios y las glosas se relacionan con los procesos económicos y administrativos asociados a la prestación y al reconocimiento de los servicios y tecnologías en salud. Su análisis permite comprender cómo se establecen los valores de referencia para los servicios contratados y cómo se gestionan las diferencias o inconsistencias identificadas durante los procesos de facturación y auditoría.
 
-    .row.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/temas/t5/img2.png" alt="")
@@ -20,7 +20,7 @@
         p En el contexto de los acuerdos de voluntades, las partes deben establecer las condiciones económicas bajo las cuales se reconocerán y pagarán los servicios y tecnologías contratados. Para ello, pueden utilizar diferentes referentes tarifarios, de acuerdo con la modalidad de contratación y las condiciones pactadas.
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Los manuales tarifarios contienen referencias para la identificación y valoración económica de determinados servicios y procedimientos. Su utilización debe relacionarse con las condiciones establecidas en el acuerdo de voluntades y con los servicios y tecnologías que hacen parte de este.
-        .row.align-items-center
+        .row.justify-content-center.align-items-center
           .col-lg-2
             img.tema5-icono.d-none.d-lg-block(src="@/assets/curso/temas/t5/img3.png" alt="")
           .col-lg-10
@@ -208,7 +208,7 @@
     p.mb-4 En la gestión de las glosas deben considerarse, entre otros, los siguientes aspectos:
 
     .row.align-items-center.mb-4
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0
         LineaTiempoD.color-secundario
           p.mb-0(numero="1" titulo="Causal de la glosa") La objeción debe corresponder a una causal establecida en el Manual Único de Devoluciones, Glosas y Respuestas. No pueden aplicarse causales diferentes a las allí establecidas.
           p.mb-0(numero="2" titulo="Soportes") La objeción debe relacionarse con la información y los soportes que respaldan la prestación y facturación de los servicios o tecnologías.
@@ -216,7 +216,7 @@
           p.mb-0(numero="4" titulo="Trazabilidad") Las actuaciones relacionadas con la glosa deben permitir identificar la factura, la causal, los valores involucrados y la respuesta presentada.
           p.mb-0(numero="5" titulo="Términos") Las glosas y sus respuestas deben tramitarse dentro de los plazos establecidos en la normativa aplicable.
           p.mb-0(numero="6" titulo="Nuevas glosas") Una vez formuladas las glosas a una factura, no pueden formularse nuevas glosas sobre la misma, salvo aquellas que surjan de hechos nuevos detectados en la respuesta a la glosa inicial.
-      .col-lg-5
+      .col-lg-4
         figure
           img(src="@/assets/curso/temas/t5/img19.png" alt="")
 

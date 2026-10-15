@@ -344,7 +344,7 @@
 
     p.mb-4 Entre las principales codificaciones mencionadas en el documento se encuentran:
 
-    .tema1-slyder.tema1-slyder--codificaciones.mb-4
+    .tema4-slyder.mb-4
       SlyderB(:datos="codificaciones")
 
     .row.g-0.align-items-stretch.tema1-panel.mb-4

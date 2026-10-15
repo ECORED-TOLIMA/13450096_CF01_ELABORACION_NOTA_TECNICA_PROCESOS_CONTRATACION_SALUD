@@ -146,7 +146,7 @@
     p.mb-4 Por esta razón, las frecuencias se establecen teniendo en cuenta:
 
     .row.align-items-center.mb-4
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-8.mb-4.mb-lg-0
         LineaTiempoD.color-secundario
           p.mb-0(numero="1" titulo="Servicio o tecnología") Cada servicio o tecnología requiere una estimación de frecuencia de uso.
           p.mb-0(numero="2" titulo="Población") La frecuencia debe relacionarse con la población que puede requerir el servicio o tecnología.
@@ -154,7 +154,7 @@
           p.mb-0(numero="4" titulo="Información histórica") Los registros de utilización permiten identificar comportamientos que pueden servir como referencia para las estimaciones.
           p.mb-0(numero="5" titulo="Condiciones operativas") Aspectos como la disponibilidad de servicios, el talento humano y las características del territorio pueden modificar la forma en que se utilizan los servicios.
           p.mb-0(numero="6" titulo="Periodo de contratación") La frecuencia debe corresponder al tiempo durante el cual se realizará la proyección.
-      .col-lg-5
+      .col-lg-4
         figure
           img(src="@/assets/curso/temas/t6/img15.png" alt="")
 

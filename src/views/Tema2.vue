@@ -310,14 +310,13 @@
         .cajon.color-secundario.p-4
           p.mb-0 En la construcción de la nota técnica, el análisis conjunto de la oferta y la demanda permite relacionar la capacidad disponible, la utilización observada y las necesidades de la población objeto. Esta información complementa el análisis de las frecuencias de uso y proporciona elementos para sustentar las proyecciones de servicios y tecnologías durante el periodo del acuerdo de voluntades.
 
-    .tema2-destacado-imagen.mb-0
-      .row.g-0.align-items-center
-        .col-lg-7.p-4.order-2.order-lg-1
-          .tema2-destacado-imagen__texto.p-4
-            p.mb-0 Por ejemplo, una población puede presentar una necesidad determinada de atención, pero la utilización registrada puede ser inferior debido a dificultades de acceso, disponibilidad limitada de servicios o condiciones territoriales. En este caso, analizar únicamente el número histórico de atenciones podría no representar adecuadamente las necesidades de la población. Por ello, la interpretación de los datos debe considerar conjuntamente las características de la población, la demanda observada y la capacidad de oferta disponible.
-        .col-lg-5.order-1.order-lg-2
-          figure.mb-0
-            img(src="@/assets/curso/temas/t2/img31.png" alt="")
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-0
+      .bloque-texto-g__img(
+        role="img"
+        :style="{'background-image':`url(${require_src('@/assets/curso/temas/t2/img31.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Por ejemplo, una población puede presentar una necesidad determinada de atención, pero la utilización registrada puede ser inferior debido a dificultades de acceso, disponibilidad limitada de servicios o condiciones territoriales. En este caso, analizar únicamente el número histórico de atenciones podría no representar adecuadamente las necesidades de la población. Por ello, la interpretación de los datos debe considerar conjuntamente las características de la población, la demanda observada y la capacidad de oferta disponible.
 
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido
