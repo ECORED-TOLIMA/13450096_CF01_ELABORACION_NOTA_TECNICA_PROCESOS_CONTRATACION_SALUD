@@ -259,13 +259,13 @@ export default {
         titulo: 'Riesgo técnico de morbilidad evitable',
         texto:
           'Se relaciona con complicaciones clínicas o aumento de la severidad de una condición de salud asociados con fallas en el modelo de prestación, la seguridad del paciente, la coordinación entre prestadores o la aplicación de guías de práctica clínica y protocolos.',
-        imagen: img16,
+        imagen: '@/assets/curso/temas/t4/img16.png',
       },
       {
         titulo: 'Riesgo técnico de utilización',
         texto:
           'Corresponde a la variabilidad en el uso de servicios y tecnologías en salud que no se encuentra soportada en la evidencia científica.',
-        imagen: img17,
+        imagen: '@/assets/curso/temas/t4/img17.png',
       },
     ],
   }),

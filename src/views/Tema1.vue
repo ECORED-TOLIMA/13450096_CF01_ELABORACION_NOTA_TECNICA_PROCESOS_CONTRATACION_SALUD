@@ -379,20 +379,20 @@ export default {
         titulo: 'Clasificación Única de Procedimientos en Salud (CUPS)',
         texto:
           'Permite identificar los procedimientos en salud mediante códigos estandarizados. La Resolución 2706 de 2025 establece la CUPS vigente y sus modificaciones, por lo que debe consultarse esta clasificación al momento de identificar y codificar los procedimientos incluidos en la nota técnica.',
-        imagen: img28,
+        imagen: '@/assets/curso/temas/t1/img28.png',
       },
       {
         titulo:
           'Código Único de Medicamentos (CUM) e Identificador Único de Medicamento (IUM)',
         texto:
           'Corresponden a los identificadores utilizados para los medicamentos, de acuerdo con la información presentada en el documento y las referencias allí señaladas.',
-        imagen: img29,
+        imagen: '@/assets/curso/temas/t1/img29.png',
       },
       {
         titulo: 'Dispositivos médicos e insumos',
         texto:
           'El documento señala que, mientras no exista una codificación única definida para estos elementos, las partes que suscriben el acuerdo pueden establecer su identificación de manera conjunta.',
-        imagen: img30,
+        imagen: '@/assets/curso/temas/t1/img30.png',
       },
     ],
   }),
