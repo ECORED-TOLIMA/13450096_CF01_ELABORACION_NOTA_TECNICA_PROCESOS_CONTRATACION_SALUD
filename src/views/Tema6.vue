@@ -15,10 +15,10 @@
         p La nota técnica integra información relacionada con la población objeto, los servicios y tecnologías en salud, las frecuencias de uso, los costos y los riesgos asociados a la atención. Su construcción requiere analizar las características y necesidades de la población, la información histórica de utilización y las condiciones establecidas en el acuerdo de voluntades.
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 De acuerdo con el #[strong Decreto 441 de 2022], la nota técnica constituye una herramienta de transparencia y eficiencia entre las partes que suscriben un acuerdo de voluntades. En ella se detallan los servicios y tecnologías de salud, las frecuencias de uso estimadas, los costos individuales y el valor total correspondiente a la población o grupo de riesgo, considerando el periodo de duración del acuerdo y la modalidad de pago pactada.
-        .row.align-items-center
+        .row
           .col-lg-2
             img.tema6-icono.d-none.d-lg-block(src="@/assets/curso/temas/t6/img2.svg" alt="")
-          .col-lg-10
+          .col-lg-10.p-0
             p.mb-0 La información que hace parte de la nota técnica se construye a partir de los análisis desarrollados previamente. La caracterización de la población permite establecer quiénes hacen parte de la población objeto y cuáles son sus necesidades; las fuentes de información y los registros de atención permiten analizar cómo se utilizan los servicios y tecnologías; y las condiciones de contratación, las tarifas y los riesgos permiten establecer los valores y condiciones que deben considerarse en las proyecciones.
 
     p.mb-4 Por esta razón, la nota técnica no corresponde únicamente a un cálculo económico. Su construcción articula información poblacional, epidemiológica, asistencial y financiera para sustentar las estimaciones que hacen parte del acuerdo de voluntades.
@@ -165,7 +165,7 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Por ejemplo, si un servicio presenta una frecuencia de uso diferente entre población adulta y población mayor debido a sus características epidemiológicas, la estimación puede realizarse de manera diferenciada para cada grupo. Posteriormente, las frecuencias obtenidas pueden integrarse para establecer la estimación correspondiente al conjunto de la población objeto.
 
-        .row.align-items-center.mb-0
+        .row.mb-0
           .col-lg-1
             img.tema6-icono.d-none.d-lg-block(src="@/assets/curso/temas/t6/img16.svg" alt="")
           .col-lg-11

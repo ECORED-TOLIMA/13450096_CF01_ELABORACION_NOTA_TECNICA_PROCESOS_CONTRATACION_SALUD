@@ -20,9 +20,9 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 En este contexto, la contratación en salud se relaciona con aspectos normativos, administrativos, técnicos y financieros que deben considerarse al establecer las condiciones del acuerdo. Entre ellos se encuentran las modalidades de pago, la identificación de los servicios y tecnologías, las condiciones de prestación, los mecanismos de seguimiento y la información que sustenta las estimaciones realizadas.
         .row
-          .col-lg-1
+          .col-lg-2
             img.tema3-icono.d-none.d-lg-block(src="@/assets/curso/temas/t3/img3.svg" alt="")
-          .col-lg-11
+          .col-lg-10
             p.mb-0 #[b El Decreto 441 de 2022], que modificó y adicionó disposiciones del #[b Decreto 780 de 2016] en materia de acuerdos de voluntades, establece elementos relacionados con la contratación entre las entidades responsables de pago, los prestadores de servicios de salud y los proveedores de tecnologías en salud. Dentro de este marco, la nota técnica constituye un elemento asociado a los acuerdos de voluntades y proporciona información para sustentar aspectos relacionados con la población, los servicios y tecnologías, las frecuencias de uso y los riesgos considerados.
 
     p.mb-4 El análisis de estos fundamentos permite comprender cómo se relacionan las condiciones de contratación con la información utilizada para construir y hacer seguimiento a la nota técnica. Para ello, este apartado aborda:
@@ -119,7 +119,7 @@
         .cajon.color-primario.p-4
           p.mb-0 Por otra parte, el marco de los acuerdos de voluntades se relaciona con la gestión del riesgo en salud y con el seguimiento de los resultados de la atención. La nota técnica proporciona información que puede utilizarse para analizar desviaciones en las frecuencias de uso y los costos, así como para identificar situaciones que requieran ajustes durante la ejecución del acuerdo.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.mb-0
       .col-lg-1
         img.tema3-icono.d-none.d-lg-block(src="@/assets/curso/temas/t3/img15.svg" alt="")
       .col-lg-9
@@ -208,7 +208,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido
       h2 3.3 Registro Individual de Prestación de Servicios de Salud (RIPS)
 
-    .row.align-items-center
+    .row
       .col-lg-1
         img.tema3-icono.d-none.d-lg-block(src="@/assets/curso/temas/t3/img19.svg" alt="")
       .col-lg-11

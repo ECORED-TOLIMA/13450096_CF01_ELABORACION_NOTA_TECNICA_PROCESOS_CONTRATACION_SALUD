@@ -415,11 +415,6 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2026). Código Único de Medicamentos (CUM).',
-      link: '',
-    },
-    {
-      referencia:
         'Politécnico de Colombia. (2026). Guía paso a paso: qué es el PAMEC en salud y cómo implementarlo en Colombia.',
       link: '',
     },

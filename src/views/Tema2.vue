@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/temas/t2/img1.png" alt="")
       .col-lg-7
-        .row.align-items-start
+        .row
           .col-md-2.mb-3.mb-md-0
             img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img2.svg" alt="")
           .col-md-10
@@ -42,8 +42,8 @@
         .col-md-2.col-lg-1.mb-3.mb-md-0
           img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img4.svg" alt="")
         .col-md-10.col-lg-9
-          p.mb-0 Entre las principales fuentes se encuentran el Sistema Integrado de Información de la Protección Social (SISPRO), el Registro Individual de Prestación de Servicios de Salud (RIPS), la Base de Datos Única de Afiliados (BDUA), el Sistema de Vigilancia en Salud Pública (SIVIGILA), la Cuenta de Alto Costo (CAC) y la información relacionada con la caracterización poblacional y el Análisis de Situación de Salud (ASIS).
-      p.mb-0 A continuación se describen los aspectos técnicos y las explicaciones funcionales de las fuentes de información: 
+          p.mb-0 Entre las principales fuentes se encuentran el Sistema Integrado de Información de la Protección Social (SISPRO), el Registro Individual de Prestación de Servicios de Salud (RIPS), la Base de Datos Única de Afiliados (BDUA), el Sistema de Nacional de Vigilancia en Salud Pública (SIVIGILA), la Cuenta de Alto Costo (CAC) y la información relacionada con la caracterización poblacional y el Análisis de Situación de Salud (ASIS).
+      p.mb-0 A continuación, se describen los aspectos técnicos y las explicaciones funcionales de las fuentes de información: 
     .BGF04.px-5.p-5.mb-4
       .tarjeta.bg-white.p-4
         PasosB.color-primario
@@ -74,7 +74,7 @@
                 img(src="@/assets/curso/temas/t2/img7.png" alt="")
             .col-md-6.mb-4.mb-md-0
               h5 Base de Datos Única de Afiliados (BDUA)
-              p.mb-4 Contiene información relacionada con la afiliación de las personas al Sistema General de Seguridad Social en Salud. Permite identificar aspectos como la población afiliada y el régimen al que pertenece, información que contribuye a delimitar y caracterizar la población objeto del acuerdo de voluntades. Para mayor información acceder a:
+              p.mb-4 Contiene información relacionada con la afiliación de las personas al Sistema General de Seguridad Social en Salud. Permite identificar aspectos como la población afiliada y el régimen al que pertenece, información que contribuye a delimitar y caracterizar la población objeto del acuerdo de voluntades. Para mayor información, consultar:
               p.mb-0
                 |  
                 a(href="https://servicios.adres.gov.co/BDUA/Consulta-Afiliados-BDUA" target="_blank" rel="noopener noreferrer") https://servicios.adres.gov.co/BDUA/Consulta-Afiliados-BDUA
@@ -84,7 +84,7 @@
               figure
                 img(src="@/assets/curso/temas/t2/img8.png" alt="")
             .col-md-6.mb-4.mb-md-0
-              h5 Sistema de Vigilancia en Salud Pública (SIVIGILA)
+              h5 Sistema de Nacional de Vigilancia en Salud Pública (SIVIGILA)
               p.mb-4 Proporciona información sobre eventos de interés en salud pública que son objeto de vigilancia. Estos datos pueden contribuir al análisis de las condiciones epidemiológicas de una población y a la identificación de situaciones que deben considerarse en la proyección de servicios y tecnologías en salud. Para mayor información acceder a:
               p.mb-0
                 |  
@@ -243,7 +243,7 @@
       .row
         .col-md-6.mb-4.mb-md-0
           h5 La oferta de servicios de salud
-          p.mb-0 se relaciona con la capacidad disponible para prestar los servicios y tecnologías requeridos por una población. Para su análisis pueden considerarse aspectos como la disponibilidad de talento humano, los servicios habilitados, la infraestructura, los equipos, los horarios de atención y las condiciones territoriales que pueden influir en la prestación.
+          p.mb-0 Se relaciona con la capacidad disponible para prestar los servicios y tecnologías requeridos por una población. Para su análisis pueden considerarse aspectos como la disponibilidad de talento humano, los servicios habilitados, la infraestructura, los equipos, los horarios de atención y las condiciones territoriales que pueden influir en la prestación.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/t2/img22.png', alt='n')
@@ -254,7 +254,7 @@
             img(src='@/assets/curso/temas/t2/img23.png', alt='n')
         .col-md-6
           h5 La demanda de servicios de salud
-          p.mb-0 corresponde a los servicios que la población solicita o utiliza efectivamente. Como se explicó anteriormente, la demanda observada no necesariamente representa la totalidad de las necesidades de una población, debido a que pueden existir condiciones que faciliten o limiten el acceso a los servicios.
+          p.mb-0 Corresponde a los servicios que la población solicita o utiliza efectivamente. Como se explicó anteriormente, la demanda observada no necesariamente representa la totalidad de las necesidades de una población, debido a que pueden existir condiciones que faciliten o limiten el acceso a los servicios.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-2.col-lg-1.mb-3.mb-md-0

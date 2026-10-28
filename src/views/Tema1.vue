@@ -31,7 +31,7 @@
           img(src="@/assets/curso/temas/t1/img2.svg" alt="")
       .col-lg-7
         p.mb-4 La caracterización poblacional es un proceso de análisis que permite identificar las condiciones de salud, características y particularidades de una población determinada. Su desarrollo considera información demográfica, epidemiológica, territorial y social, con el propósito de reconocer riesgos, necesidades y grupos que requieren atención específica.
-        .row.align-items-center
+        .row
           .col-md-2.mb-3.mb-md-0
             img.tema1-icono.d-none.d-lg-block(src="@/assets/curso/temas/t1/img3.svg" alt="")
           .col-md-10
@@ -186,7 +186,7 @@
       .col-lg-7
         p.mb-4 El análisis de las necesidades requiere utilizar información epidemiológica y poblacional que permita aproximarse a las condiciones de salud de la población.
         p.mb-4 Para la construcción de la nota técnica, el reconocimiento de estas necesidades permite establecer los servicios y tecnologías que deben considerarse en el acuerdo de voluntades. El análisis puede abarcar las diferentes intervenciones requeridas de acuerdo con las condiciones de la población, desde acciones de promoción y mantenimiento de la salud hasta aquellas relacionadas con el diagnóstico, tratamiento, rehabilitación y demás atenciones que correspondan al objeto del acuerdo.
-        .row.align-items-center
+        .row
           .col-md-2.mb-3.mb-md-0
             img.tema1-icono.d-none.d-lg-block(src="@/assets/curso/temas/t1/img13.svg" alt="")
           .col-md-10
@@ -275,7 +275,7 @@
 
     p.mb-4 Los parámetros epidemiológicos permiten describir y analizar la ocurrencia de eventos y condiciones de salud en una población determinada. En la construcción de la nota técnica, estos parámetros aportan información para estimar la población susceptible y proyectar la utilización de los servicios y tecnologías de salud.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.mb-4
       .col-md-2.col-lg-1.mb-3.mb-md-0
         img.tema1-icono.d-none.d-lg-block(src="@/assets/curso/temas/t1/img21.svg" alt="")
       .col-md-10.col-lg-9
@@ -305,7 +305,7 @@
               .col-md-6.mb-4.mb-md-0
                 h5 Tasa de uso
                 p.mb-4 La tasa de uso permite relacionar la utilización de un servicio o tecnología con una población determinada durante un periodo. Su análisis aporta información sobre el comportamiento observado de la utilización de los servicios y puede contribuir a establecer las frecuencias esperadas para la nota técnica.
-                p.mb-0 Para determinar los parámetros epidemiológicos asociados con las poblaciones definidas, pueden considerarse prevalencia, incidencia, tasas de uso, entre otros, y recomienda priorizar fuentes correspondientes al territorio o al contexto poblacional analizado.
+                p.mb-0 Para determinar los parámetros epidemiológicos asociados con las poblaciones definidas, pueden considerarse prevalencia, incidencia, tasas de uso, entre otros, y se recomienda priorizar fuentes correspondientes al territorio o al contexto poblacional analizado.
               .col-md-6
                 figure
                   img(src="@/assets/curso/temas/t1/img24.png" alt="")
@@ -336,7 +336,7 @@
           img(src="@/assets/curso/temas/t1/img26.png" alt="")
       .col-lg-7
         p.mb-4 Una vez caracterizada la población, identificadas sus necesidades y determinada la población susceptible, es necesario establecer con precisión los servicios y tecnologías que serán considerados en el acuerdo de voluntades. Para ello, estos deben identificarse mediante los códigos correspondientes a las tablas de referencia estandarizadas señaladas en el documento de Lineamientos de la Nota Técnica.
-        .row.align-items-center
+        .row
           .col-md-2.mb-3.mb-md-0
             img.tema1-icono.d-none.d-lg-block(src="@/assets/curso/temas/t1/img27.svg" alt="")
           .col-md-10
@@ -352,10 +352,10 @@
         figure.h-100
           img.tema1-panel__imagen(src="@/assets/curso/temas/t1/img31.png" alt="")
       .col-lg-7.p-4
-        .row.align-items-center.mb-4
-          .col-md-2.mb-3.mb-md-0
+        .row.align-items-end.mb-4
+          .col-lg-2.mb-3.mb-md-0
             img.tema1-icono.d-none.d-lg-block(src="@/assets/curso/temas/t1/img32.svg" alt="")
-          .col-md-10
+          .col-lg-10
             h5.mb-0 Actualización de los códigos
         p.mb-4
           | Los códigos y las tablas de referencia pueden presentar modificaciones. Por ello, el documento recomienda verificar la información histórica frente a la clasificación vigente antes de elaborar el listado definitivo de servicios y tecnologías. En el caso de los procedimientos, debe consultarse la 

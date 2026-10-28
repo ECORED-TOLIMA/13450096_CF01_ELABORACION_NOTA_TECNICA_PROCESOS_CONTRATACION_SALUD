@@ -20,10 +20,10 @@
         p En el contexto de los acuerdos de voluntades, las partes deben establecer las condiciones económicas bajo las cuales se reconocerán y pagarán los servicios y tecnologías contratados. Para ello, pueden utilizar diferentes referentes tarifarios, de acuerdo con la modalidad de contratación y las condiciones pactadas.
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Los manuales tarifarios contienen referencias para la identificación y valoración económica de determinados servicios y procedimientos. Su utilización debe relacionarse con las condiciones establecidas en el acuerdo de voluntades y con los servicios y tecnologías que hacen parte de este.
-        .row.justify-content-center.align-items-center
+        .row
           .col-lg-2
             img.tema5-icono.d-none.d-lg-block(src="@/assets/curso/temas/t5/img3.png" alt="")
-          .col-lg-10
+          .col-lg-10.p-0
             p.mb-0 Por otra parte, las glosas corresponden a objeciones o diferencias identificadas frente a las facturas presentadas por los servicios y tecnologías en salud. Estas pueden estar relacionadas con aspectos administrativos, de prestación, facturación o soportes, y requieren procesos de revisión, respuesta y gestión entre las partes.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
@@ -63,8 +63,8 @@
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Los manuales tarifarios son referentes utilizados para establecer o acordar el valor económico de los servicios y tecnologías en salud. En los acuerdos de voluntades, las partes pueden definir las condiciones económicas de la contratación y establecer los referentes tarifarios que utilizarán para reconocer los servicios contratados.
-        p.mb-0 En Colombia existen diferentes referentes tarifarios que pueden utilizarse en los procesos de contratación en salud. Entre los más conocidos se encuentran el Manual Tarifario SOAT y el Manual Tarifario ISS 2001. También pueden establecerse tarifas propias mediante acuerdos entre las partes, de acuerdo con las condiciones definidas en el acuerdo de voluntades.
-    p A continuación se describen los dos manuales tradicionales: 
+        p.mb-0 En Colombia existen diferentes referentes tarifarios que pueden utilizarse en los procesos de contratación en salud. Entre los más conocidos se encuentran el Manual Tarifario SOAT y el Manual Tarifario ISS 2001. También pueden establecerse tarifas propias mediante acuerdos entre las partes, de acuerdo con las condiciones definidas en el acuerdo de voluntades. 
+    p Entre los principales referentes tarifarios utilizados en los procesos de contratación en salud se encuentran los siguientes:
     .BGF02.p-5.mb-4
       .tarjeta.bg-white.p-4
         SlyderA(tipo="b")
