@@ -43,7 +43,7 @@
           img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img4.svg" alt="")
         .col-md-10.col-lg-9
           p.mb-0 Entre las principales fuentes se encuentran el Sistema Integrado de Información de la Protección Social (SISPRO), el Registro Individual de Prestación de Servicios de Salud (RIPS), la Base de Datos Única de Afiliados (BDUA), el Sistema de Nacional de Vigilancia en Salud Pública (SIVIGILA), la Cuenta de Alto Costo (CAC) y la información relacionada con la caracterización poblacional y el Análisis de Situación de Salud (ASIS).
-      p.mb-0 A continuación, se describen los aspectos técnicos y las explicaciones funcionales de las fuentes de información: 
+      p.mb-0 Cada fuente aporta información específica que contribuye a la caracterización de la población y al análisis de las necesidades, las condiciones de salud y la utilización de los servicios. A continuación, se describen sus principales aportes y su utilidad en la construcción de la nota técnica:
     .BGF04.px-5.p-5.mb-4
       .tarjeta.bg-white.p-4
         PasosB.color-primario
@@ -242,8 +242,7 @@
     PasosA.color-acento-contenido.mb-5(tipo="n")
       .row
         .col-md-6.mb-4.mb-md-0
-          h5 La oferta de servicios de salud
-          p.mb-0 Se relaciona con la capacidad disponible para prestar los servicios y tecnologías requeridos por una población. Para su análisis pueden considerarse aspectos como la disponibilidad de talento humano, los servicios habilitados, la infraestructura, los equipos, los horarios de atención y las condiciones territoriales que pueden influir en la prestación.
+          p La #[b oferta de servicios de salud] se relaciona con la capacidad disponible para prestar los servicios y tecnologías requeridos por una población. Para su análisis pueden considerarse aspectos como la disponibilidad de talento humano, los servicios habilitados, la infraestructura, los equipos, los horarios de atención y las condiciones territoriales que pueden influir en la prestación.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/t2/img22.png', alt='n')
@@ -253,8 +252,7 @@
           figure
             img(src='@/assets/curso/temas/t2/img23.png', alt='n')
         .col-md-6
-          h5 La demanda de servicios de salud
-          p.mb-0 Corresponde a los servicios que la población solicita o utiliza efectivamente. Como se explicó anteriormente, la demanda observada no necesariamente representa la totalidad de las necesidades de una población, debido a que pueden existir condiciones que faciliten o limiten el acceso a los servicios.
+          p.mb-0 La #[b demanda de servicios de salud] corresponde a los servicios que la población solicita o utiliza efectivamente. Como se explicó anteriormente, la demanda observada no necesariamente representa la totalidad de las necesidades de una población, debido a que pueden existir condiciones que faciliten o limiten el acceso a los servicios.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-2.col-lg-1.mb-3.mb-md-0
