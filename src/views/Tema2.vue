@@ -42,7 +42,7 @@
         .col-md-2.col-lg-1.mb-3.mb-md-0
           img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img4.svg" alt="")
         .col-md-10.col-lg-9
-          p.mb-0 Entre las principales fuentes se encuentran el Sistema Integrado de Información de la Protección Social (SISPRO), el Registro Individual de Prestación de Servicios de Salud (RIPS), la Base de Datos Única de Afiliados (BDUA), el Sistema de Nacional de Vigilancia en Salud Pública (SIVIGILA), la Cuenta de Alto Costo (CAC) y la información relacionada con la caracterización poblacional y el Análisis de Situación de Salud (ASIS).
+          p.mb-0 Entre las principales fuentes se encuentran el Sistema Integrado de Información de la Protección Social (SISPRO), el Registro Individual de Prestación de Servicios de Salud (RIPS), la Base de Datos Única de Afiliados (BDUA), el Sistema Nacional de Vigilancia en Salud Pública (SIVIGILA), la Cuenta de Alto Costo (CAC) y la información relacionada con la caracterización poblacional y el Análisis de Situación de Salud (ASIS).
       p.mb-0 Cada fuente aporta información específica que contribuye a la caracterización de la población y al análisis de las necesidades, las condiciones de salud y la utilización de los servicios. A continuación, se describen sus principales aportes y su utilidad en la construcción de la nota técnica:
     .BGF04.px-5.p-5.mb-4
       .tarjeta.bg-white.p-4
@@ -53,7 +53,7 @@
                 img(src="@/assets/curso/temas/t2/img5.png" alt="")
             .col-md-6.mb-4.mb-md-0
               h5 Sistema Integrado de Información de la Protección Social (SISPRO)
-              p.mb-4 Integra información proveniente de diferentes registros del sector salud y proporciona datos relacionados con la población, la afiliación, la prestación de servicios y las condiciones de salud. Su consulta permite disponer de información para caracterizar la población y apoyar el análisis requerido en la construcción de la nota técnica. Para mayor información acceder a: 
+              p.mb-4 Integra información proveniente de diferentes registros del sector salud y proporciona datos relacionados con la población, la afiliación, la prestación de servicios y las condiciones de salud. Su consulta permite disponer de información para caracterizar la población y apoyar el análisis requerido en la construcción de la nota técnica. Para mayor información, consultar: 
               p.mb-0
                 a(href="https://www.sispro.gov.co/Pages/Home.aspx" target="_blank" rel="noopener noreferrer") https://www.sispro.gov.co/Pages/Home.aspx
             
@@ -63,7 +63,7 @@
                 img(src="@/assets/curso/temas/t2/img6.png" alt="")
             .col-md-6.mb-4.mb-md-0
               h5 Registro Individual de Prestación de Servicios de Salud (RIPS)
-              p.mb-4 Contiene información relacionada con las atenciones realizadas a los usuarios de los servicios de salud. Su análisis permite identificar el comportamiento histórico de la prestación y establecer las frecuencias de utilización de los servicios y tecnologías. Para este propósito, resulta necesario contar con información consistente y depurada. Para mayor información acceder a:
+              p.mb-4 Contiene información relacionada con las atenciones realizadas a los usuarios de los servicios de salud. Su análisis permite identificar el comportamiento histórico de la prestación y establecer las frecuencias de utilización de los servicios y tecnologías. Para este propósito, resulta necesario contar con información consistente y depurada. Para mayor información, consultar:
               p.mb-0
                 |  
                 a(href="https://www.sispro.gov.co/central-financiamiento/Pages/facturacion-electronica.aspx" target="_blank" rel="noopener noreferrer") https://www.sispro.gov.co/central-financiamiento/Pages/facturacion-electronica.aspx
@@ -84,8 +84,8 @@
               figure
                 img(src="@/assets/curso/temas/t2/img8.png" alt="")
             .col-md-6.mb-4.mb-md-0
-              h5 Sistema de Nacional de Vigilancia en Salud Pública (SIVIGILA)
-              p.mb-4 Proporciona información sobre eventos de interés en salud pública que son objeto de vigilancia. Estos datos pueden contribuir al análisis de las condiciones epidemiológicas de una población y a la identificación de situaciones que deben considerarse en la proyección de servicios y tecnologías en salud. Para mayor información acceder a:
+              h5 Sistema Nacional de Vigilancia en Salud Pública (SIVIGILA)
+              p.mb-4 Proporciona información sobre eventos de interés en salud pública que son objeto de vigilancia. Estos datos pueden contribuir al análisis de las condiciones epidemiológicas de una población y a la identificación de situaciones que deben considerarse en la proyección de servicios y tecnologías en salud. Para mayor información, consultar:
               p.mb-0
                 |  
                 a(href="https://portalsivigila.ins.gov.co/Paginas/inicio.aspx" target="_blank" rel="noopener noreferrer") https://portalsivigila.ins.gov.co/Paginas/inicio.aspx
@@ -96,7 +96,7 @@
                 img(src="@/assets/curso/temas/t2/img9.png" alt="")
             .col-md-6.mb-4.mb-md-0
               h5 Cuenta de Alto Costo (CAC)
-              p.mb-4 Genera información e indicadores relacionados con la gestión del riesgo de determinadas enfermedades crónicas y condiciones de alto costo. Esta información puede ser utilizada para analizar poblaciones que presentan condiciones específicas y establecer elementos relacionados con sus necesidades de atención. Para mayor información acceder a:
+              p.mb-4 Genera información e indicadores relacionados con la gestión del riesgo de determinadas enfermedades crónicas y condiciones de alto costo. Esta información puede ser utilizada para analizar poblaciones que presentan condiciones específicas y establecer elementos relacionados con sus necesidades de atención. Para mayor información, consultar:
               p.mb-0
                 |  
                 a(href="https://cuentadealtocosto.org/" target="_blank" rel="noopener noreferrer") https://cuentadealtocosto.org/
@@ -107,7 +107,7 @@
                 img(src="@/assets/curso/temas/t2/img10.png" alt="")
             .col-md-6.mb-4.mb-md-0
               h5 Caracterización poblacional y Análisis de Situación de Salud (ASIS)
-              p.mb-4 La caracterización poblacional aporta información sobre las condiciones de salud y las características demográficas, sociales, económicas y territoriales de una población. El Análisis de Situación de Salud (ASIS) integra información que permite reconocer las condiciones de salud, las necesidades y las particularidades de los territorios, constituyéndose en un insumo para la planeación de las intervenciones en salud. Para mayor información acceder a:
+              p.mb-4 La caracterización poblacional aporta información sobre las condiciones de salud y las características demográficas, sociales, económicas y territoriales de una población. El Análisis de Situación de Salud (ASIS) integra información que permite reconocer las condiciones de salud, las necesidades y las particularidades de los territorios, constituyéndose en un insumo para la planeación de las intervenciones en salud. Para mayor información, consultar:
               p.mb-0
                 |  
                 a(href="https://www.minsalud.gov.co/salud/epidemiologia-demografia/Paginas/analisis-de-situacion-de-salud.aspx" target="_blank" rel="noopener noreferrer") https://www.minsalud.gov.co/salud/epidemiologia-demografia/Paginas/analisis-de-situacion-de-salud.aspx
